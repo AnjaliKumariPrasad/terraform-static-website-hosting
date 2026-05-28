@@ -127,7 +127,7 @@ d28fl4r93tms5o.cloudfront.net
 
 ## Website Output
 
-![Website Output](terrafrm/img/output-img.png)
+![Website Output](terraform/img/output-img.png)
 
 ---
 
