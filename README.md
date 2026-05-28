@@ -1,5 +1,10 @@
 # Terraform Static Website Hosting on AWS
 
+<<<<<<< HEAD
+=======
+Static website hosting using AWS S3 + CloudFront with Terraform.
+
+>>>>>>> 547135ea0e9ba26847f7a0204f354cabff07400b
 This project demonstrates how to deploy a secure static website on AWS using Terraform Infrastructure as Code (IaC).
 
 The website is hosted using:
@@ -123,11 +128,19 @@ d28fl4r93tms5o.cloudfront.net
 
 ## AWS Console
 
+<<<<<<< HEAD
 ![AWS Console](img/aws-console.png)
 
 ## Website Output
 
 ![Website Output](img/output-img.png)
+=======
+img/aws-console.png
+
+## Website Output
+
+img/output-img.png
+>>>>>>> 547135ea0e9ba26847f7a0204f354cabff07400b
 
 ---
 
