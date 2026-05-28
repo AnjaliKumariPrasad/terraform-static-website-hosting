@@ -1,1 +1,0 @@
-# terraform-static-website-hosting
