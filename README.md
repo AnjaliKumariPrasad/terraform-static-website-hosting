@@ -125,11 +125,11 @@ d28fl4r93tms5o.cloudfront.net
 
 ## AWS Console
 
-![AWS Console](img/aws-console.png)
+img/aws-console.png
 
 ## Website Output
 
-![Website Output](img/output-img.png)
+img/output-img.png
 
 ---
 
